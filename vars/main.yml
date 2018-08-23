@@ -22,11 +22,11 @@ nameserver2: 10.1.0.101
 nameserver3: 10.1.0.100
 
 log_failure_count: 5
-logging_size: 300
+logging_size: 380
 
 stp_mode: rapid-pvst
 
-ssh_timeout: 60
+ssh_timeout: 120
 ssh_version: 2
 
 tacacs_source_interface: Loopback0
