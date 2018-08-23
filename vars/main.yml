@@ -11,7 +11,7 @@ base_user_password: cisco
 
 mtu: 1500
 
-timezone: MST 
+timezone: EST 
 
 vtp_mode: transparent
 
